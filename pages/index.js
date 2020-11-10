@@ -1,4 +1,4 @@
-import './style.css';
+//import this link on css 'https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/dark.min.css'
 
 function Home() {
 	return (
